@@ -26,4 +26,4 @@ func main() {
 	fmt.Printf("%3.1f\n", num4)
 
 	fmt.Println("\nDone.")
-	}
+}
